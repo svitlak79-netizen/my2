@@ -15,8 +15,12 @@ body {
   color: #333;
 }
 
+.wrap {
+  display: flex;
+}
+
 .card {
-  margin-top: 100px;
+  margin-top: 200px;
   margin-left: 100px;
   width: 280px;
   border: 1px solid #ccc;

@@ -1,8 +1,12 @@
 @import 'reset';
 @import 'variables';
 
+.wrap { 
+  display: flex;
+}
+
 .card {
-  margin-top: 100px;
+  margin-top: 200px;
   margin-left: 100px;
   width: $card-width;
   border: 1px solid $border-color;
